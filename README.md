@@ -6,3 +6,9 @@ The changes I made include:
 - About Me has red text
 - Description has blue text
 - Interests has green text
+
+terpconnect Page:
+https://terpconnect.umd.edu/~aankit/cmsc389T-web-template/
+
+GitHub Page:
+https://firssst.github.io/cmsc389T-web-template/

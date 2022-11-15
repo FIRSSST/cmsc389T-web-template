@@ -8,7 +8,7 @@ The changes I made include:
   - Interests has green text
 
 terpconnect Page:
-https://terpconnect.umd.edu/~aankit/cmsc389T-web-template/
+
 
 GitHub Page:
-https://firssst.github.io/cmsc389T-web-template/
+
